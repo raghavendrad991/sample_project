@@ -42,7 +42,7 @@
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>tomcat-maven-plugin</artifactId>
         <configuration>
-          <url>http://3.21.170.150:8080/manager/text</url>
+          <url>http://3.138.155.100:8080/manager/text</url>
 		  <server>myserver</server>
 		  <path>/hsbccoreservices</path>
         </configuration>
